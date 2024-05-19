@@ -1,0 +1,7 @@
+'Install common software packages on salt minions':
+  pkg.installed:
+    - names:
+      - 'nano'
+      - 'bash-completion'
+      - 'tree'
+      - 'git'

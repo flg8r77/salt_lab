@@ -1,0 +1,2 @@
+Debian: [ 'nano', 'bash-completion', 'tree', 'git', 'vim' ]
+RedHat: [ 'nano', 'bash-completion', 'tree', 'git', 'vim-enhanced' ]
