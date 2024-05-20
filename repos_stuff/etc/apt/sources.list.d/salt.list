@@ -1,0 +1,1 @@
+deb [signed-by=/usr/share/keyrings/salt-archive-keyring.gpg] https://repo.saltproject.io/salt/py3/ubuntu/20.04/amd64/3006/ focal main
